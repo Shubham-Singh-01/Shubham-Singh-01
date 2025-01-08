@@ -25,7 +25,7 @@
 
 <div align="center">
 <br/>
-<img src="https://hits.sh/github.com/shubham-singh-01.svg?style=for-the-badge&label=Profile%20Views&extraCount=10000&color=6366F1&labelColor=000000&logo=github&logoColor=white" alt="Visitor Count" />
+<img src="https://hits.sh/github.com/shubham-singh-01/hits.svg?style=for-the-badge&label=Profile%20Views&color=6366F1&labelColor=000000&logo=github&logoColor=white" alt="Visitor Count"/>
 </div>
 
 <br/>

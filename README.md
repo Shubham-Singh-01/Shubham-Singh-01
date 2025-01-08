@@ -23,11 +23,16 @@
   </a>
 </div>
 
+<div align="center">
+<br/>
+<img src="https://hits.sh/github.com/shubham-singh-01.svg?style=for-the-badge&label=Profile%20Views&extraCount=10000&color=6366F1&labelColor=000000&logo=github&logoColor=white" alt="Visitor Count" />
+</div>
+
 <br/>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24"> About Me
 
-<img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="margin-top: -20px">
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" style="margin-top: -20px">
 
 - 🚀 Currently working on **UroFLOW_WinApp(WPF)**
 - 📚 Learning **MERN Stack Development**

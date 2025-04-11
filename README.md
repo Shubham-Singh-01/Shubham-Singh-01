@@ -76,12 +76,12 @@
 
 <div align="center">
   <div style="display: flex; gap: 10px; justify-content: center;">
-    <a href="https://github.com/Shubham-Singh-01/HTF24-Team-200">
-       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham-Singh-01&repo=HTF24-Team-200&bg_color=0d1117&border_color=30363d&title_color=6366F1&text_color=8b949e&icon_color=6366F1&border_radius=15" width="420" />
-     </a>
-     <a href="https://github.com/Shubham-Singh-01/Corporate-DB">
-       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham-Singh-01&repo=Corporate-DB&bg_color=0d1117&border_color=30363d&title_color=6366F1&text_color=8b949e&icon_color=6366F1&border_radius=15" width="420" />
-     </a>
+    <a href="https://github.com/Shubham-Singh-01/HacktoberFest24-Team-200">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham-Singh-01&repo=HacktoberFest24-Team-200&bg_color=0d1117&border_color=30363d&title_color=6366F1&text_color=8b949e&icon_color=6366F1&border_radius=15" width="420" />
+    </a>
+    <a href="https://github.com/Shubham-Singh-01/Cloud_Deck">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham-Singh-01&repo=Cloud_Deck&bg_color=0d1117&border_color=30363d&title_color=6366F1&text_color=8b949e&icon_color=6366F1&border_radius=15" width="420" />
+    </a>
   </div>
 </div>
 

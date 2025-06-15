@@ -1,0 +1,43 @@
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Every day at midnight UTC
+  workflow_dispatch:     # Allow manual runs
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Fetch all history
+
+      - name: Create dist directory
+        run: mkdir -p dist
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Setup Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+      - name: Create and push snake branch
+        run: |
+          # Create and switch to the snake branch
+          git checkout --orphan snake || git checkout snake
+          
+          # Add SVG files to the branch
+          git add dist/*.svg -f
+          
+          # Commit the changes
+          git commit -m "Generate Contribution Snake" || echo "No changes to commit"
+          
+          # Push with upstream set
+          git push -u origin snake -f

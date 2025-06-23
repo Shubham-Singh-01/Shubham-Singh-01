@@ -43,11 +43,15 @@
 
 <p align="center">
   <a href="https://github.com/Shubham-Singh-01/Resume/blob/main/ShubhamSingh_Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readme&logoColor=white&labelColor=000000&color=000000" alt="Resume Button" style="height: 38px;"/>
+    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readme&logoColor=white&labelColor=000000&color=000000" alt="Resume Button" style="height: 38px;" />
   </a>
   &nbsp;
   <a href="https://github.com/shubham-singh-01/projects" target="_blank">
-    <img src="https://img.shields.io/badge/Projects-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=000000" alt="Projects Button" style="height: 38px;"/>
+    <img src="https://img.shields.io/badge/Projects-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=000000" alt="Projects Button" style="height: 38px;" />
+  </a>
+  &nbsp;
+  <a href="https://ss-folio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=000000&color=000000" alt="Portfolio Button" style="height: 38px;" />
   </a>
 </p>
 

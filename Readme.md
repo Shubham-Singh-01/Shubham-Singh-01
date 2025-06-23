@@ -42,7 +42,7 @@
 <br clear="right" />
 
 <p align="center">
-  <a href="https://github.com/shubham-singh-01/resume" target="_blank">
+  <a href="https://github.com/Shubham-Singh-01/Resume/blob/main/ShubhamSingh_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readme&logoColor=white&labelColor=000000&color=000000" alt="Resume Button" style="height: 38px;"/>
   </a>
   &nbsp;
@@ -112,9 +112,10 @@
 
 <h1></h1>
 
-<div align="center">
-  <img src="./Images/ending_banner.gif">
+<div style="width: 100hx; margin: 0; padding: 0;">
+  <img src="./Images/ending_banner.gif" style="width: 100%; height: auto; display: block;">
 </div>
+
 <h2 align="center">
   🎬 That's all folks!, See you around 👋
 </h2>

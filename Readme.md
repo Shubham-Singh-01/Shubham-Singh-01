@@ -112,9 +112,10 @@
 
 <h1></h1>
 
-<div style="width: 100hx; margin: 0; padding: 0;">
-  <img src="./Images/ending_banner.gif" style="width: 100%; height: auto; display: block;">
+<div style="display: flex; justify-content: center; overflow: hidden;">
+  <img src="./Images/ending_banner.gif" style="transform: scale(1.2); max-width: none; height: auto;">
 </div>
+
 
 <h2 align="center">
   🎬 That's all folks!, See you around 👋
